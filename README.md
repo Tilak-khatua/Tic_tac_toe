@@ -1,7 +1,7 @@
 <b>
 Tic Tac Toe
 </b>
-   
+<br>
 This is a simple web-based Tic Tac Toe game built with three files: index.html, style.css, and script.js. The HTML file sets up the page structure (a heading, a 3×3 game board, a turn indicator, and a reset button). The CSS file provides the styling for layout, colors, and hover effects. The JavaScript file contains the game logic and handles user interactions like placing marks, checking for a win or draw, and resetting the board.
 
 File Overview
